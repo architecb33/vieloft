@@ -4,7 +4,7 @@
             xmlns:android   = "http://schemas.android.com/apk/res/android"
         id        = "com.architecgraphic.vieloft"
         versionCode="12" 
-        version   = "1.0.6">
+        version   = "1.0.7">
         
     <name>VIELOFT</name>
     
@@ -54,10 +54,6 @@
 <gap:splash src="Default-Landscape@2x.png" gap:platform="ios" width="2048" height="1536" />
 
 
-<config-file platform="android" parent="/manifest" mode="merge">
-    <supports-screens 
-android:largestWidthLimitDp="320" />
-</config-file>
 
 
 
