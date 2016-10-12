@@ -15,7 +15,6 @@
         tour_displaycontrols="true"
         tour_language="en"/>
   <krpano tour_gyroscopedevices="true" devices="tablet|mobile" />
-  <krpano stagescale="1.0" devices="tablet|mobile" />
   <krpano videos_sounds_path="%FIRSTXML%" devices="html5" />
   <krpano videos_sounds_path="%SWFPATH%" devices="flash" />
 
