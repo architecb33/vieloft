@@ -38,7 +38,7 @@
     mul(stagescale, 3););
     ,
     if(device.pixelratio GE 4.0,
-    mul(stagescale, 4););
+    mul(stagescale, 8););
 </action>
   
   <action name="setControlMode">
