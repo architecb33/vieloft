@@ -41,7 +41,7 @@
                  mainscene="pano25"
                  color="808080"
                  alpha="1"
-                 thumburl="%FIRSTXML%/_1c_panorama_25/thumbnail.jpg"
+                 thumburl="%FIRSTXML%/panorama_25/thumbnail.jpg"
                  floorplanurl="%FIRSTXML%/floorplan/plan06_panogroup26.png"
                  titleid="panogroup26_title"
                  descriptionid=""/>
@@ -234,7 +234,7 @@
 <scene name="pano25"
        heading="1.80000000000064"
        group="panogroup26"
-       thumburl="%FIRSTXML%/_1c_panorama_25/thumbnail.jpg"
+       thumburl="%FIRSTXML%/panorama_25/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano25_title"
@@ -258,24 +258,24 @@
           hlookat="171.000000"
           vlookat="-0.900000"/>
 
-    <preview url="%FIRSTXML%/_1c_panorama_25/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/panorama_25/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" devices="desktop">
-      <front url="_1c_panorama_25/html5/0.jpg"/>
-      <right url="_1c_panorama_25/html5/1.jpg"/>
-      <back  url="_1c_panorama_25/html5/2.jpg"/>
-      <left  url="_1c_panorama_25/html5/3.jpg"/>
-      <up    url="_1c_panorama_25/html5/4.jpg"/>
-      <down  url="_1c_panorama_25/html5/5.jpg"/>
+      <front url="panorama_25/html5/0.jpg"/>
+      <right url="panorama_25/html5/1.jpg"/>
+      <back  url="panorama_25/html5/2.jpg"/>
+      <left  url="panorama_25/html5/3.jpg"/>
+      <up    url="panorama_25/html5/4.jpg"/>
+      <down  url="panorama_25/html5/5.jpg"/>
     </image>
 
     <image type="CUBE" devices="html5">
-      <front url="_1c_panorama_25/html5/0.jpg"/>
-      <right url="_1c_panorama_25/html5/1.jpg"/>
-      <back  url="_1c_panorama_25/html5/2.jpg"/>
-      <left  url="_1c_panorama_25/html5/3.jpg"/>
-      <up    url="_1c_panorama_25/html5/4.jpg"/>
-      <down  url="_1c_panorama_25/html5/5.jpg"/>
+      <front url="panorama_25/html5/0.jpg"/>
+      <right url="panorama_25/html5/1.jpg"/>
+      <back  url="panorama_25/html5/2.jpg"/>
+      <left  url="panorama_25/html5/3.jpg"/>
+      <up    url="panorama_25/html5/4.jpg"/>
+      <down  url="panorama_25/html5/5.jpg"/>
     </image>
 
 
@@ -380,7 +380,7 @@
 <scene name="pano23"
        heading="91"
        group="panogroup26"
-       thumburl="%FIRSTXML%/_2c_panorama_23/thumbnail.jpg"
+       thumburl="%FIRSTXML%/panorama_23/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano23_title"
@@ -404,24 +404,24 @@
           hlookat="75.150000"
           vlookat="0.000000"/>
 
-    <preview url="%FIRSTXML%/_2c_panorama_23/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/panorama_23/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" devices="desktop">
-      <front url="_2c_panorama_23/html5/0.jpg"/>
-      <right url="_2c_panorama_23/html5/1.jpg"/>
-      <back  url="_2c_panorama_23/html5/2.jpg"/>
-      <left  url="_2c_panorama_23/html5/3.jpg"/>
-      <up    url="_2c_panorama_23/html5/4.jpg"/>
-      <down  url="_2c_panorama_23/html5/5.jpg"/>
+      <front url="panorama_23/html5/0.jpg"/>
+      <right url="panorama_23/html5/1.jpg"/>
+      <back  url="panorama_23/html5/2.jpg"/>
+      <left  url="panorama_23/html5/3.jpg"/>
+      <up    url="panorama_23/html5/4.jpg"/>
+      <down  url="panorama_23/html5/5.jpg"/>
     </image>
 
     <image type="CUBE" devices="html5">
-      <front url="_2c_panorama_23/html5/0.jpg"/>
-      <right url="_2c_panorama_23/html5/1.jpg"/>
-      <back  url="_2c_panorama_23/html5/2.jpg"/>
-      <left  url="_2c_panorama_23/html5/3.jpg"/>
-      <up    url="_2c_panorama_23/html5/4.jpg"/>
-      <down  url="_2c_panorama_23/html5/5.jpg"/>
+      <front url="panorama_23/html5/0.jpg"/>
+      <right url="panorama_23/html5/1.jpg"/>
+      <back  url="panorama_23/html5/2.jpg"/>
+      <left  url="panorama_23/html5/3.jpg"/>
+      <up    url="panorama_23/html5/4.jpg"/>
+      <down  url="panorama_23/html5/5.jpg"/>
     </image>
 
 
@@ -526,7 +526,7 @@
 <scene name="pano27"
        heading="0"
        group="panogroup26"
-       thumburl="%FIRSTXML%/_3c_panorama_27/thumbnail.jpg"
+       thumburl="%FIRSTXML%/panorama_27/thumbnail.jpg"
        backgroundsound=""
        backgroundsoundloops="0"
        titleid="pano27_title"
@@ -550,24 +550,24 @@
           hlookat="-35.550000"
           vlookat="0.450000"/>
 
-    <preview url="%FIRSTXML%/_3c_panorama_27/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
+    <preview url="%FIRSTXML%/panorama_27/preview.jpg" type="CUBESTRIP" striporder="FRBLUD"/>
 
     <image type="CUBE" devices="desktop">
-      <front url="_3c_panorama_27/html5/0.jpg"/>
-      <right url="_3c_panorama_27/html5/1.jpg"/>
-      <back  url="_3c_panorama_27/html5/2.jpg"/>
-      <left  url="_3c_panorama_27/html5/3.jpg"/>
-      <up    url="_3c_panorama_27/html5/4.jpg"/>
-      <down  url="_3c_panorama_27/html5/5.jpg"/>
+      <front url="panorama_27/html5/0.jpg"/>
+      <right url="panorama_27/html5/1.jpg"/>
+      <back  url="panorama_27/html5/2.jpg"/>
+      <left  url="panorama_27/html5/3.jpg"/>
+      <up    url="panorama_27/html5/4.jpg"/>
+      <down  url="panorama_27/html5/5.jpg"/>
     </image>
 
     <image type="CUBE" devices="html5">
-      <front url="_3c_panorama_27/html5/0.jpg"/>
-      <right url="_3c_panorama_27/html5/1.jpg"/>
-      <back  url="_3c_panorama_27/html5/2.jpg"/>
-      <left  url="_3c_panorama_27/html5/3.jpg"/>
-      <up    url="_3c_panorama_27/html5/4.jpg"/>
-      <down  url="_3c_panorama_27/html5/5.jpg"/>
+      <front url="panorama_27/html5/0.jpg"/>
+      <right url="panorama_27/html5/1.jpg"/>
+      <back  url="panorama_27/html5/2.jpg"/>
+      <left  url="panorama_27/html5/3.jpg"/>
+      <up    url="panorama_27/html5/4.jpg"/>
+      <down  url="panorama_27/html5/5.jpg"/>
     </image>
 
 
