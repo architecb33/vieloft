@@ -17,28 +17,17 @@
   <krpano tour_gyroscopedevices="true" devices="tablet|mobile" />
   <krpano videos_sounds_path="%FIRSTXML%" devices="html5" />
   <krpano videos_sounds_path="%SWFPATH%" devices="flash" />
-  <krpano stagescale="1.5" devices="tablet|mobile" />
-  <events name="controlmodenewpanoevent" onnewpano="controlmodenewpanoaction();" keep="true"/>
+<krpano stagescale="2.0" devices="android+mobile" />
+
+
+
+  
+<events name="controlmodenewpanoevent" onnewpano="controlmodenewpanoaction();" keep="true"/>
   <action name="controlmodenewpanoaction">if (isdesktop, setControlMode(get(tour_controlmodemousetype)););</action>
   <action name="setControlModeDragTo">setControlMode(drag2d);</action>
   <action name="setControlModeMoveTo">setControlMode(moveto);</action>
-  
-  <action name="mobilescale" autorun="preinit" devices="android">
-    if(device.pixelratio GE 1.0,
-    mul(stagescale, 1););
-    ,
-    if(device.pixelratio GE 1.5,
-    mul(stagescale, 1.5););
-    ,
-    if(device.pixelratio GE 2.0,
-    mul(stagescale, 2););
-    ,
-    if(device.pixelratio GE 3.0,
-    mul(stagescale, 3););
-    ,
-    if(device.pixelratio GE 4.0,
-    mul(stagescale, 8););
-</action>
+
+
   
   <action name="setControlMode">
     set(control.mousetype, %1);
